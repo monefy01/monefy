@@ -1,0 +1,6 @@
+{
+  "name": "The Debt Freedom Method - Monefy",
+  "description": "Stop losing sleep over debt. Start your 90-day path to financial freedom with The Debt Freedom Method by Monefy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

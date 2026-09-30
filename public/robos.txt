@@ -1,0 +1,23 @@
+# robots.txt for Monefy - The Debt Freedom Method
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://monefy.me/sitemap.xml
+Sitemap: /sitemap.xml
+
+# AI & LLM Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
